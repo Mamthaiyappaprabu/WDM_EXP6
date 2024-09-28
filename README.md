@@ -15,8 +15,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 5. Execute a sample query and display the search results along with similarity scores.
 
 ### Program:
-
-```python
+```
 import requests
 from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -85,7 +84,8 @@ print("The highest rank cosine score is:", highest_rank_score)
 
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/0928f1a1-ea3b-46f0-a4e2-f498d6262d6d)
+![image](https://github.com/user-attachments/assets/25d49d47-f1e4-4ec0-aed1-148c171ef0c2)
+
 
 
 
